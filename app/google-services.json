@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566092678010",
+    "firebase_url": "https://my-digital-wallets.firebaseio.com",
+    "project_id": "my-digital-wallets",
+    "storage_bucket": "my-digital-wallets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566092678010:android:6ff8c58bb135b8a4",
+        "android_client_info": {
+          "package_name": "com.smartappinnosys.mydigitalapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566092678010-84rsj4cecr7m85ihblnsvm8c4ss5sq62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRC0YYyy2vaW_WgW2MI4l6s6TcPlKgwfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

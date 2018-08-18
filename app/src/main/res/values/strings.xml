@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Digital Wallets </string>
+    <string name="banner_ad_unit_id">ca-app-pub-2344609825153728/5318013093</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2344609825153728/2762621028</string>
+    <array name="app_menu_icons">
+        <item>@mipmap/ic_paytm</item>
+        <item>@mipmap/ic_bhimnew</item>
+        <item>@mipmap/ic_sbibuddy</item>
+        <item>@mipmap/ic_mobikwik</item>
+        <item>@mipmap/ic_phonepe</item>
+        <item>@mipmap/ic_freecharge</item>
+        <item>@mipmap/ic_oxygenwallet</item>
+        <item>@mipmap/ic_jiomoney</item>
+        <item>@mipmap/ic_icicipockets</item>
+        <item>@mipmap/ic_payumoney</item>
+        <item>@mipmap/ic_chillr</item>
+        <item>@mipmap/ic_payzapp</item>
+        <item>@mipmap/ic_olamoneywallet</item>
+        <item>@mipmap/ic_yespay</item>
+        <item>@mipmap/ic_unitedwallet</item>
+        <item>@mipmap/ic_pnbkitty</item>
+        <item>@mipmap/ic_ucopay</item>
+        <item>@mipmap/ic_vijayquik</item>
+        <item>@mipmap/ic_payapt</item>
+        <item>@mipmap/ic_airtel</item>
+        <item>@mipmap/ic_vodaphonempesa</item>
+        <item>@mipmap/ic_ideamoney</item>
+    </array>
+    <array name="app_packages_list">
+        <item>net.one97.paytm</item>
+        <item>in.org.npci.upiapp</item>
+        <item>com.sbi.erupee</item>
+        <item>com.mobikwik_new</item>
+        <item>com.phonepe.app</item>
+        <item>com.freecharge.android</item>
+        <item>com.oxigen.oxigenwallet</item>
+        <item>com.corpay.mwallet</item>
+        <item>com.icicibank.pockets</item>
+        <item>com.payu.payumoney</item>
+        <item>in.chillr</item>
+        <item>com.enstage.wibmo.hdfc</item>
+        <item>com.olacabs.olamoney</item>
+        <item>com.YesBank</item>
+        <item>com.unitedwallet.ubi.walletapp</item>
+        <item>com.PNBWApp</item>
+        <item>com.lcode.ucopay</item>
+        <item>in.msewa.vpayqwik</item>
+        <item>com.enstage.wibmo.idbi</item>
+        <item>com.myairtelapp</item>
+        <item>com.vodafone.vmpl.mpesa</item>
+        <item>com.idea.ideamoney</item>
+    </array>
+</resources>
